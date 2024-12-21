@@ -39,9 +39,9 @@ footer:
     - type: github
       name: GitHub
       link: http://github.com/YourGitHubUsername
-    - type: dribbble
-      name: Dribbble
-      link: https://dribbble.com/YourDribbbleUsername
+    - type: youtube
+      name: Youtube
+      link: https://youtube.com/
     - type: rss
       name: RSS
       link: /feed.xml
