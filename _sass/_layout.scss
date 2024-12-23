@@ -127,7 +127,7 @@
 }
 
 .footer-col {
-  float: left;
+  float: center;
   margin-bottom: $spacing-unit / 2;
   padding-left: $spacing-unit / 2;
 }
@@ -135,8 +135,7 @@
 .footer-col-1,
 .footer-col-2,
 .footer-col-3 {
-  width: -webkit-calc(33% - (#{$spacing-unit} / 2));
-  width: calc(33% - (#{$spacing-unit} / 2));
+  width: 60%;
 }
 
 .follow-links > .social-link {
