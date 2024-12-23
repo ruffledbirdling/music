@@ -3,7 +3,7 @@ layout: about
 title: About
 slug: /about
 ---
-![Image of banjo on sofa with microphone and headphones set up with computer for recording](https://instagram.fyvr3-1.fna.fbcdn.net/v/t51.29350-15/447958529_7634410386613583_6135428082397716336_n.jpg)
+<img src="{{ "assets/img/recordingbanjo.jpg" | absolute_url }}" alt="Image of banjo on sofa with microphone and headphones set up with computer for recording" class="side-image"/> 
 
 A Magpie's Hoard is a project by a Vancouver-based multi-instrumentalist, composer, writer and sound engineer. An artist with a captivating voice and illustrative lyrics, his musical stylings blend folk traditions with modern elements which passionately engage listeners.
 <br>
