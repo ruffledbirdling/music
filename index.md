@@ -6,6 +6,6 @@ profile_picture:
 ---
 <center>
 <h2 class>
-Vancouver-based multi-instrumentalist, composer, writer and sound engineer. 
+Vancouver-based musician, composer, writer and sound engineer. 
 </h2>
 </center>
