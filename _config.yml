@@ -22,18 +22,18 @@ footer:
   show_powered_by: false
 
   follow:
-    - type: facebook
-      name: Facebook
-      link: http://facebook.com/YourFacebookUsername
-    - type: linkedin
-      name: LinkedIn
-      link: http://linkedin.com/in/YourLinkedInUsername
+    - type: instagram
+      name: Instagram
+      link: https://www.instagram.com/ruffledbirdling/
     - type: youtube
       name: Youtube
-      link: https://youtube.com/
-    - type: rss
-      name: RSS
-      link: /feed.xml
+      link: https://www.youtube.com/@ruffledBirdling/videos
+    - type: bandcamp
+      name: Bandcamp
+      link: https://ruffledbirdling.bandcamp.com/
+    - type: linktree
+      name: Linktree
+      link: https://linktr.ee/ruffledbirdling
 
 # Build settings
 markdown: kramdown
