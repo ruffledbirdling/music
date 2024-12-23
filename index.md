@@ -2,7 +2,7 @@
 layout: home
 profile_picture:
   src: /assets/img/profile-pic.jpg
-  alt: website picture
+  alt: Photo of a banjo and a kick drum. Image by D. Grimm
 ---
 
 <p>
@@ -12,9 +12,10 @@ He was a classically trained musician from the age of 8 onwards. After discontin
 </p>
 
 <p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o1djyfyO2gI?si=w1mFlll1hK9DD0XX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</p>
-
-<p>
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=2704742003/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://ruffledbirdling.bandcamp.com/track/mirrors-and-masks">Mirrors and Masks by Dominic Grimm</a></iframe>
+</p>
+<center>
+<p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o1djyfyO2gI?si=w1mFlll1hK9DD0XX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
 </p>
