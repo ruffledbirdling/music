@@ -6,7 +6,7 @@ slug: /about
 <picture>
 <img src="assets/img/recordingbanjo.jpg" |
 alt="Image of banjo on sofa with microphone and headphones set up with computer for recording"
-style="width:250px;"
+style="width:25px;"
 margin-left="15px;"
 /> 
 </picture>
