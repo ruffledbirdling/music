@@ -6,5 +6,5 @@ profile_picture:
 ---
 
 <h2 class>
-  A Magpie's Hoard is a project by a Vancouver-based multi-instrumentalist, composer, writer and sound engineer. 
+Vancouver-based multi-instrumentalist, composer, writer and sound engineer. 
 </h2>
