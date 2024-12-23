@@ -4,11 +4,10 @@ title: About
 slug: /about
 ---
 <picture>
-<img src="assets/img/recordingbanjo.jpg" | absolute_url
+<img src="assets/img/recordingbanjo.jpg" |
 alt="Image of banjo on sofa with microphone and headphones set up with computer for recording"
-width="250px"
-float="right"
-margin-left="15px"
+style="width:250px;height:auto;"
+margin-left="15px;"
 /> 
 </picture>
 
