@@ -3,18 +3,9 @@ layout: about
 title: About
 slug: /about
 ---
-items:
-  - title: My Interest 1
-    image:
-      src: /assets/img/work/water.png
-      alt: water
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-  - title: My Interest 2
-    image:
-      src: /assets/img/work/sand.png
-      alt: sand
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-This is an example of a "Work" page, displaying your work, your interests, your projects.
-<br />
-<br />
+  A Magpie's Hoard is a project by a Vancouver-based multi-instrumentalist, composer, writer and sound engineer. An artist with a captivating voice and illustrative lyrics, his musical stylings blend folk traditions with modern elements which passionately engage listeners.
+</p><p>
+He was a classically trained musician from the age of 8 onwards. After discontinuing piano and voice lessons in his early twenties, he started playing banjo and finding joy in music again. He is hugely inspired by the unique biome that is BC, as well as the history that can be found in folk music. His lyrical influences include his experience as a genderfluid trans man.
+</p>
+<br>
+<br>
