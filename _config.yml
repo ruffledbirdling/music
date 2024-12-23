@@ -32,7 +32,7 @@ footer:
     - type: bandcamp
       name: Bandcamp
       link: https://ruffledbirdling.bandcamp.com/
-    - type: link
+    - type: linktree
       name: Linktree
       link: https://linktr.ee/ruffledbirdling/
 
