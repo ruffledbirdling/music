@@ -7,18 +7,18 @@
 // Our variables
 $base-url: "{{ site.baseurl }}";
 
-$base-font-family: Charter, Georgia, Helvetica, Arial, sans-serif;
-$base-font-size: 14px;
+$base-font-family: Georgia, serif;
+$base-font-size: 16px;
 $small-font-size: $base-font-size * 0.875;
 $base-line-height: 1.7;
 
 $spacing-unit: 30px;
 
 $text-color: #111;
-$background-color: #fdfdfd;
-$brand-color: #2a7ae2;
+$background-color: #fdf6e3;
+$brand-color: #C89E00;
 
-$grey-color: #828282;
+$grey-color: #411902;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark: darken($grey-color, 25%);
 
