@@ -32,9 +32,9 @@ footer:
     - type: bandcamp
       name: Bandcamp
       link: https://ruffledbirdling.bandcamp.com/
-    - type: linktree
+    - type: link
       name: Linktree
-      link: https://linktr.ee/ruffledbirdling
+      link: https://linktr.ee/ruffledbirdling/
 
 # Build settings
 markdown: kramdown
