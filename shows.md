@@ -7,12 +7,15 @@ slug: /shows
 <h2 class>
 Upcoming Shows:
 </h2>
-  
+ 
+
 [Follow on Instagram](https://www.instagram.com/ruffledbirdling/) for upcoming show announcements. Contact for booking.
+
 <h2 class>
 Past Shows:
 </h2>
-<h4 class>2024:</h4>
+
+**2024:**
 
 - Dec 14: [Songs in the Snow](https://historicsteveston.ca/a-steveston-favourite-returns-in-december/), Steveston Historical Society, Richmond <br>
 
