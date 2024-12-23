@@ -8,9 +8,9 @@ A Magpie's Hoard is a project by a Vancouver-based multi-instrumentalist, compos
 
 <div align="right"> 
 
-  ![Image of banjo on sofa with microphone and headphones set up with computer for recording](/assets/img/recordingbanjo.jpg)
+![Image of banjo on sofa with microphone and headphones set up with computer for recording](/assets/img/recordingbanjo.jpg)
 
-<img src="/assets/img/recordingbanjo.jpg" width="250px" title="Image of banjo on sofa with microphone and headphones set up with computer for recording">
+<img src="/assets/img/recordingbanjo.jpg" width="250px" alt="Image of banjo on sofa with microphone and headphones set up with computer for recording">
 
 </div>
 <div>
