@@ -4,7 +4,7 @@ title: About
 slug: /about
 ---
 <picture>
-<img src="/assets/img/recordingbanjo.jpg" |
+<img src="/assets/img/recordingbanjo.jpg"
 alt="Image of banjo on sofa with microphone and headphones set up with computer for recording"
 style="width:250px;height:250px;"
 margin-left="15px;"
