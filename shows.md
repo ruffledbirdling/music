@@ -3,19 +3,13 @@ layout: shows
 title: Shows
 slug: /shows
 ---
-<center>
-<h2 class>
-Upcoming Shows:
-</h2>
+## Upcoming Shows:
  
-
 [Follow on Instagram](https://www.instagram.com/ruffledbirdling/) for upcoming show announcements. Contact for booking.
 
-<h2 class>
-Past Shows:
-</h2>
+## Past Shows:
 
-**2024:**
+### 2024:
 
 - Dec 14: [Songs in the Snow](https://historicsteveston.ca/a-steveston-favourite-returns-in-december/), Steveston Historical Society, Richmond <br>
 
@@ -28,9 +22,3 @@ Past Shows:
 - July 7: [Cross & Crows Books](https://crossandcrows.com/), Vancouver <br>
 
 - June 23: Summer Solstice Show, Vancouver <br>
-
-
-
-</center>
-
-<br /><br />
