@@ -1,8 +1,13 @@
+.work-item {
+  clear: both;
+  overflow: hidden;
+  padding-bottom: 1em;
+}
+
 .side-image {
   float: right;
   padding-right: 0px;
   padding-left: 10px;
-  padding-bottom: 8px;
   padding-top: 0px;
   width: 33%;
   height: auto;
