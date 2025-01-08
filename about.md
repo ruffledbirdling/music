@@ -4,7 +4,7 @@ title: About
 slug: /about
 items:
 - image:
-   src: /assets/img/about/Dombanjotree.jpg
+   src: assets/img/about/Dombanjotree.jpg
    alt: Photo of Dominic playing banjo in front of a tree.
 ---
 A Magpie's Hoard is a project by a Vancouver-based multi-instrumentalist, composer, writer and sound engineer. An artist with a captivating voice and illustrative lyrics, his musical stylings blend folk traditions with modern elements which passionately engage listeners.  
