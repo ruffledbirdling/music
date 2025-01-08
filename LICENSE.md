@@ -1,6 +1,6 @@
 ISC License
 
-Copyright (c) 2019, Eliott Vincent
+Copyright (c) 2019, Eliott Vincent, 2025 Dominic Grimm
 
 Permission to use, copy, modify, and/or distribute this software for any
 purpose with or without fee is hereby granted, provided that the above
