@@ -7,11 +7,11 @@
   width: 35%;
   height: auto;
   margin-bottom: 2vh;
-  margin-left: 20vw;
+  margin-left: 2vw;
   float: right;
 
   @include media-query($on-mobile) {
     float: right;
-    margin-bottom: 2vw;
+    margin-left: 2vw;
   }
 }
