@@ -17,28 +17,17 @@
   position: relative;
 }
 
-.site-title {
-  font-size: 26px;
-  line-height: 56px;
-  letter-spacing: -1px;
-  float: left;
-
-  img {
-    height: 23px;
-  }
-
   &,
   &:visited {
     color: $grey-color-dark;
   }
-}
 
 /**
  * Site nav
  */
 .site-nav {
   z-index: 10;
-  float: right;
+  float: center;
   line-height: 56px;
   background-color: $background-color;
 
@@ -67,7 +56,7 @@
 
     .menu-icon {
       display: block;
-      float: right;
+      float: center;
       border-radius: 5px;
       width: 36px;
       height: 26px;
