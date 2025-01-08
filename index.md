@@ -1,8 +1,8 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/profile-pic.jpg
-  alt: Photo of a banjo and a kick drum.
+  src: /assets/img/DomHeadshot.jpg
+  alt: Photo of Dominic Grimm
 ---
 <center>
 <h1 class>
