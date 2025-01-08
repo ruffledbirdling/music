@@ -17,10 +17,21 @@
   position: relative;
 }
 
+.site-title {
+  font-size: 26px;
+  line-height: 56px;
+  letter-spacing: -1px;
+  float: left;
+
+  img {
+    height: 23px;
+  }
+
   &,
   &:visited {
     color: $grey-color-dark;
   }
+}
 
 /**
  * Site nav
