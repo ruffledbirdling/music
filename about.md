@@ -2,8 +2,7 @@
 layout: about
 title: About
 slug: /about
-items:
-- image:
+side-image:
    src: assets/img/about/Dombanjotree.jpg
    alt: Photo of Dominic playing banjo in front of a tree.
 ---
