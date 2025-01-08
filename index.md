@@ -8,6 +8,6 @@ profile_picture:
 <h1 class>
 Dominic Grimm </h1>
 <h2 class>
-Vancouver-based musician, composer, writer and sound engineer. 
+Vancouver-based musician and composer 
 </h2>
 </center>
