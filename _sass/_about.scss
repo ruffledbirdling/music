@@ -11,10 +11,11 @@
   float: right;
 
   @include media-query($on-mobile) {
+  float: none;
   margin-left: auto;
-margin-right: auto;
-display: block;
-min-width: 65%;
-margin-bottom: 1vh
+  margin-right: auto;
+  display: block;
+  min-width: 65%;
+  margin-bottom: 1vh;
   }
 }
