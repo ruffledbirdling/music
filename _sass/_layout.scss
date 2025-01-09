@@ -62,9 +62,13 @@
     top: 12px;
     right: 24px;
 
-    border: 1px solid $grey-color-light;
-    border-radius: 5px;
-    text-align: right;
+hr{
+	border-bottom: 1px solid $grey-color-light;
+  border-radius: 5px;
+	margin-right: 20%
+  margin-left: 20%
+}
+
 
     .menu-icon {
       display: block;
