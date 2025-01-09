@@ -62,10 +62,6 @@
     top: 12px;
     right: 24px;
 
-  border: 1px solid $grey-color-light;
-    border-radius: 5px;
-    text-align: right;
-
     .menu-icon {
       display: block;
       float: center;
@@ -94,6 +90,11 @@
       padding: 6px 16px;
     }
   }
+.element {
+  border-bottom: 1px solid #B98B5C;
+  margin: 0 20%;
+}
+
 }
 
 /**
