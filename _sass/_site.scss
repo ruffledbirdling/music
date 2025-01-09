@@ -5,11 +5,11 @@
   margin-right: 30%;
   margin-bottom: 20px;
   align: center;
-  clip-path: ellipse(50% 50%);
 
   @include media-query($on-mobile) {
     float: none;
     margin-bottom: 20px;
+    clip-path: ellipse(50% 50%);
   }
 }
 
