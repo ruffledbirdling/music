@@ -11,7 +11,10 @@
   float: right;
 
   @include media-query($on-mobile) {
-    float: right;
-    margin-left: 2vw;
+  margin-left: auto;
+margin-right: auto;
+display: block;
+min-width: 65%;
+margin-bottom: 1vh
   }
 }
