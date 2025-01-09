@@ -1,5 +1,5 @@
 ---
-layout: shows
+layout: default
 title: Contact
 slug: /contact
 ---
