@@ -4,7 +4,7 @@
 title: Dominic Grimm
 description: >- # this means to ignore newlines until "baseurl:"
   Musician and Composer
-baseurl: "/music" # the subpath of the site
+baseurl: "/" # the subpath of the site
 url: "http://dominicgrimm.com" # the base hostname & protocol for the site
 og_image:
 google_analytics: "UA-121636368-3"
