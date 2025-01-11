@@ -91,6 +91,15 @@
       display: block;
       padding: 6px 16px;
     }
+
+    .line {
+      border-bottom: 1px solid $grey-color-light;
+      margin: 0 20%;
+
+        @include media-query($on-mobile) {
+         display: none;
+    }
+}
   }
 }
 
