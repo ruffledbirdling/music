@@ -14,4 +14,3 @@ Dominic first started his love of music at age six, after his older brother had 
 
 But Dominic never stopped looking for that magic he felt when he first sat down at a piano. A magic he found again when he picked up a banjo for the first time. Since then Dominic has been composing and performing around Vancouver at street festivals, in parks, at open mics, and wherever else will give him a place to share his music.
 <br>
-<br>
