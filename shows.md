@@ -9,6 +9,10 @@ slug: /shows
 
 ## Past Shows:
 
+### 2025:
+
+-  March 1: [APT Pop](https://www.instagram.com/aptpop/) at [Arrieta Studios](https://www.instagram.com/arrieta_art/), New Westminster <br>
+
 ### 2024:
 
 - Dec 14: [Songs in the Snow](https://historicsteveston.ca/a-steveston-favourite-returns-in-december/), Steveston Historical Society, Richmond <br>
