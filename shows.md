@@ -2,9 +2,6 @@
 layout: shows
 title: Shows
 slug: /shows
-show_pic:
-  src: /assets/img/aptpopshowmarch2025.jpg
-  alt: AptPop Performance
 ---
 
 ## Upcoming Shows:
