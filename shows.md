@@ -3,7 +3,7 @@ layout: shows
 title: Shows
 slug: /shows
 profile_picture:
-  src: /assets/img/aptpopshowmarch2025.jpg
+  src: /assets/img/aptpopwide.jpg
   alt: AptPop Performance
 ---
 
