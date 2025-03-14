@@ -2,14 +2,16 @@
 layout: shows
 title: Shows
 slug: /shows
-profile_picture:
-  src: /assets/img/aptpopwide.jpg
+show_pic:
+  src: /assets/img/aptpopshowmarch2025.jpg
   alt: AptPop Performance
 ---
 
 ## Upcoming Shows:
  
 [Follow on Instagram](https://www.instagram.com/ruffledbirdling/) for upcoming show announcements. Contact for booking.
+
+![AptPop Performance](assets/img/aptpopshowmarch2025.jpg)
 
 ## Past Shows:
 
