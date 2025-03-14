@@ -8,8 +8,6 @@ slug: /shows
  
 [Follow on Instagram](https://www.instagram.com/ruffledbirdling/) for upcoming show announcements. Contact for booking.
 
-![AptPop Performance](assets/img/aptpopshowmarch2025.jpg)
-
 ## Past Shows:
 
 ### 2025:
