@@ -2,8 +2,10 @@
 layout: shows
 title: Shows
 slug: /shows
+profile_picture:
+  src: /assets/img/aptpopshowmarch2025.jpg)
+  alt: AptPop Performance
 ---
-![AptPop Performance](assets/img/aptpopshowmarch2025.jpg)
 
 ## Upcoming Shows:
  
