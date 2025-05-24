@@ -5,6 +5,10 @@ slug: /shows
 ---
 
 ## Upcoming Shows:
+
+June 16 - [Open Mic](https://www.instagram.com/open.mic.night.1/) featured performer at DCTRL, Vancouver - 7pm <br>
+
+Oct 16 - [New West Farmers Market](https://newwestfarmers.ca/) 3-7pm <br>
  
 [Follow on Instagram](https://www.instagram.com/ruffledbirdling/) for upcoming show announcements. Contact for booking.
 
@@ -26,6 +30,6 @@ Oct 5: EcoRise Fest, Vancouver <br>
 
 Sept 14: Tea, Tunes, and Verse in the Garden, [Renfrew Ravine Moon Festival](https://stillmoonarts.ca/2024-renfrew-ravine-moon-festival/2024artists/), Vancouver <br>
 
-July 7: [Cross & Crows Books](https://crossandcrows.com/), Vancouver <br>
+July 7: [Cross & Crows Books Fundraser](https://crossandcrows.com/), Vancouver <br>
 
-June 23: Summer Solstice Show, Vancouver <br>
+June 23: Summer Solstice Talent Show, Vancouver <br>
