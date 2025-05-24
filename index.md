@@ -1,7 +1,7 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/Dom Headshot.jpg
+  src: /assets/img/DomHeadshot.jpg
   alt: Photo of Dominic Grimm
 ---
 <center>
