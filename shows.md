@@ -6,7 +6,9 @@ slug: /shows
 
 ## Upcoming Shows:
 
-June 16 - [Open Mic](https://www.instagram.com/open.mic.night.1/) featured performer at DCTRL, Vancouver - 7pm <br>
+July 19 - Collingwood Days, Gaston Park, Vancouver <br>
+
+July 20 - Show Your Rainbows, Patchwork Repair Hub, Slocan Park, Vancouver <br>
 
 Oct 16 - [New West Farmers Market](https://newwestfarmers.ca/) 3-7pm <br>
  
@@ -17,6 +19,8 @@ Oct 16 - [New West Farmers Market](https://newwestfarmers.ca/) 3-7pm <br>
 ## Past Shows:
 
 ### 2025:
+
+June 16 - [Open Mic](https://www.instagram.com/open.mic.night.1/) featured performer at DCTRL, Vancouver<br>
 
 March 1: [APT Pop](https://www.instagram.com/aptpop/) at [Arrieta Studios](https://www.instagram.com/arrieta_art/), New Westminster <br>
 
