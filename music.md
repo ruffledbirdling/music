@@ -1,4 +1,4 @@
 ---
 title: Music
-link: [/music](https://ruffledbirdling.bandcamp.com/)
+link: [/music](https://thewanderingthistle.bandcamp.com/)
 ---
