@@ -15,7 +15,7 @@ header:
       slug: /
     - name: About
     - name: Music
-      slug: https://ruffledbirdling.bandcamp.com/
+      slug: https://www.instagram.com/thewanderingthistle/
     - name: Shows
     - name: Contact
 
@@ -26,16 +26,16 @@ footer:
   follow:
     - type: instagram
       name: Instagram
-      link: https://www.instagram.com/ruffledbirdling/
+      link: https://www.instagram.com/thewanderingthistle/
     - type: youtube
       name: Youtube
-      link: https://www.youtube.com/@ruffledBirdling/
+      link: https://www.youtube.com/@TheWanderingThistle
     - type: bandcamp
       name: Bandcamp
-      link: https://ruffledbirdling.bandcamp.com/
+      link: https://thewanderingthistle.bandcamp.com/
     - type: linktree
       name: Linktree
-      link: https://linktr.ee/ruffledbirdling/
+      link: https://linktr.ee/TheWanderingThistle
 
 # Build settings
 markdown: kramdown
